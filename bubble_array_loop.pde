@@ -1,3 +1,5 @@
+//Simple bubble array
+
 Bubble [] bubbles = new Bubble[25];
 
 
